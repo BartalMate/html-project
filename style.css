@@ -1,6 +1,7 @@
-.main{
-    position: relative;
-    max-width: 2560px;
-    margin: 0 auto;
-    padding-top: var(--global-nav-collective-height);
+.kep {
+  float: right;
+  width: 200px;
+}
+#background {
+  background-color: bisque;
 }
